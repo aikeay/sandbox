@@ -11,5 +11,3 @@ cp error_log-20131117 historical/old_error_log-20131117
 cp error_log-20131124 historical/old_error_log-20131124
 cp error_log-20131201 historical/old_error_log-20131201
 cp error_log-20131208 historical/old_error_log-20131208
-
-0 1 * * 5 /cron.sh
